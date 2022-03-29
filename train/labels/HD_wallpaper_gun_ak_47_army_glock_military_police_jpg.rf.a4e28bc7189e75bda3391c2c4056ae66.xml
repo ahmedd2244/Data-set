@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>HD_wallpaper_gun_ak_47_army_glock_military_police_jpg.rf.a4e28bc7189e75bda3391c2c4056ae66.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>30.0</xmin>
+            <ymin>269.0</ymin>
+            <xmax>441.0</xmax>
+            <ymax>341.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>36.0</xmin>
+            <ymin>254.0</ymin>
+            <xmax>434.0</xmax>
+            <ymax>295.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>10.0</xmin>
+            <ymin>217.0</ymin>
+            <xmax>382.0</xmax>
+            <ymax>266.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>19.0</xmin>
+            <ymin>169.0</ymin>
+            <xmax>426.0</xmax>
+            <ymax>231.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>11.0</xmin>
+            <ymin>124.0</ymin>
+            <xmax>442.0</xmax>
+            <ymax>184.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

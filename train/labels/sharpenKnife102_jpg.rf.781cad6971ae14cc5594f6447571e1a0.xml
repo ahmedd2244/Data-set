@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>sharpenKnife102_jpg.rf.781cad6971ae14cc5594f6447571e1a0.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>knife</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>28.0</xmin>
+            <ymin>188.0</ymin>
+            <xmax>122.0</xmax>
+            <ymax>392.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>knife</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>163.0</xmin>
+            <ymin>194.0</ymin>
+            <xmax>318.0</xmax>
+            <ymax>379.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

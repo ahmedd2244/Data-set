@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>British_and_French_Snipers_During_Ex_Boars_Head_jpg.rf.73484e0400011d9742822530d9d172e0.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>328.0</xmin>
+            <ymin>121.0</ymin>
+            <xmax>426.0</xmax>
+            <ymax>277.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>36.0</xmin>
+            <ymin>112.0</ymin>
+            <xmax>242.0</xmax>
+            <ymax>321.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>146.0</xmin>
+            <ymin>160.0</ymin>
+            <xmax>335.0</xmax>
+            <ymax>343.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

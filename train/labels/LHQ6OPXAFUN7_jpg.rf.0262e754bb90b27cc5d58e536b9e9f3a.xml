@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>LHQ6OPXAFUN7_jpg.rf.0262e754bb90b27cc5d58e536b9e9f3a.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>129.0</xmin>
+            <ymin>95.0</ymin>
+            <xmax>252.0</xmax>
+            <ymax>381.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

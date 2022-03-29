@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>images__33__jpg.rf.29032d1a22fe9d4ef40765b0eda82d97.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>55.0</xmin>
+            <ymin>154.0</ymin>
+            <xmax>410.0</xmax>
+            <ymax>201.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>70.0</xmin>
+            <ymin>185.0</ymin>
+            <xmax>451.0</xmax>
+            <ymax>237.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>32.0</xmin>
+            <ymin>225.0</ymin>
+            <xmax>437.0</xmax>
+            <ymax>288.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>37.0</xmin>
+            <ymin>266.0</ymin>
+            <xmax>411.0</xmax>
+            <ymax>336.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>34.0</xmin>
+            <ymin>116.0</ymin>
+            <xmax>415.0</xmax>
+            <ymax>176.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

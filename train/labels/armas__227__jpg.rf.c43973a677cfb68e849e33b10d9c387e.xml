@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>armas__227__jpg.rf.c43973a677cfb68e849e33b10d9c387e.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>26.0</xmin>
+            <ymin>26.0</ymin>
+            <xmax>208.0</xmax>
+            <ymax>183.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>251.0</xmin>
+            <ymin>35.0</ymin>
+            <xmax>433.0</xmax>
+            <ymax>181.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>37.0</xmin>
+            <ymin>238.0</ymin>
+            <xmax>209.0</xmax>
+            <ymax>413.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>229.0</xmin>
+            <ymin>263.0</ymin>
+            <xmax>437.0</xmax>
+            <ymax>397.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

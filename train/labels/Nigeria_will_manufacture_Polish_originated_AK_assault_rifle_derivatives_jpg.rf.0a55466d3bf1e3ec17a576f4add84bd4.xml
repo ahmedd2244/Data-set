@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>Nigeria_will_manufacture_Polish_originated_AK_assault_rifle_derivatives_jpg.rf.0a55466d3bf1e3ec17a576f4add84bd4.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>10.0</xmin>
+            <ymin>92.0</ymin>
+            <xmax>429.0</xmax>
+            <ymax>389.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>128.0</xmin>
+            <ymin>4.0</ymin>
+            <xmax>448.0</xmax>
+            <ymax>224.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

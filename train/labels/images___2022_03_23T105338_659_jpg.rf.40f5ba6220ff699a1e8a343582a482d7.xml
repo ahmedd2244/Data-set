@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>images___2022_03_23T105338_659_jpg.rf.40f5ba6220ff699a1e8a343582a482d7.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>29.0</xmin>
+            <ymin>38.0</ymin>
+            <xmax>429.0</xmax>
+            <ymax>157.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>32.0</xmin>
+            <ymin>152.0</ymin>
+            <xmax>431.0</xmax>
+            <ymax>291.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>22.0</xmin>
+            <ymin>295.0</ymin>
+            <xmax>434.0</xmax>
+            <ymax>430.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

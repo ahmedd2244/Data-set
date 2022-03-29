@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>KravMagaKnifeDefenseTechniques067_jpg.rf.50a1a6c00c80ce3b00de80a72b47f3e7.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>knife</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>190.0</xmin>
+            <ymin>161.0</ymin>
+            <xmax>241.0</xmax>
+            <ymax>208.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

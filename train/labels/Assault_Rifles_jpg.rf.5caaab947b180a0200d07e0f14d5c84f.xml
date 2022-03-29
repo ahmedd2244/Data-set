@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>Assault_Rifles_jpg.rf.5caaab947b180a0200d07e0f14d5c84f.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>359.0</xmin>
+            <ymin>334.0</ymin>
+            <xmax>419.0</xmax>
+            <ymax>405.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>13.0</xmin>
+            <ymin>241.0</ymin>
+            <xmax>201.0</xmax>
+            <ymax>438.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>239.0</xmin>
+            <ymin>238.0</ymin>
+            <xmax>347.0</xmax>
+            <ymax>357.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>249.0</xmin>
+            <ymin>344.0</ymin>
+            <xmax>364.0</xmax>
+            <ymax>436.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

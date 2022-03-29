@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>SF8V39GIXJG8_jpg.rf.f74d769d963aced1c4e41851d36f3882.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>96.0</xmin>
+            <ymin>88.0</ymin>
+            <xmax>254.0</xmax>
+            <ymax>407.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>EWMcPorUMAI7piR_jpeg.rf.602e5128e7ccd20fe9a0e05986999a79.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>32.0</xmin>
+            <ymin>97.0</ymin>
+            <xmax>358.0</xmax>
+            <ymax>342.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

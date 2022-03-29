@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>HSBLKEG12_2_jpg.rf.41be5cf8cb9617a03dd77ca95d5331a9.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>11.0</xmin>
+            <ymin>146.0</ymin>
+            <xmax>443.0</xmax>
+            <ymax>308.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>RealityKnifeAttacks0174_jpg.rf.1e4c8679d1d5fac7a90a03f169b1b253.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>knife</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>241.0</xmin>
+            <ymin>184.0</ymin>
+            <xmax>276.0</xmax>
+            <ymax>209.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>ar_15_photo_wide_c395d0ed44c2178121d2786678b0d77502cccfc1_jpg.rf.ca15a0c1f290a75693231660306fb0af.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>20.0</xmin>
+            <ymin>237.0</ymin>
+            <xmax>440.0</xmax>
+            <ymax>435.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

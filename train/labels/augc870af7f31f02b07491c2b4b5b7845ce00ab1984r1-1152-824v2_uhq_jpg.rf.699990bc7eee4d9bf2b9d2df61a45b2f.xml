@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>augc870af7f31f02b07491c2b4b5b7845ce00ab1984r1-1152-824v2_uhq_jpg.rf.699990bc7eee4d9bf2b9d2df61a45b2f.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>237.0</xmin>
+            <ymin>414.0</ymin>
+            <xmax>262.0</xmax>
+            <ymax>423.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

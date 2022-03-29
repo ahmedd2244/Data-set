@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>knifeDefenseTechnique069_jpg.rf.b86115b8b66f84cfec330a27e5b6a774.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>knife</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>236.0</xmin>
+            <ymin>164.0</ymin>
+            <xmax>283.0</xmax>
+            <ymax>315.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>KravMagaTraining725_jpg.rf.8548fc745a0835c7f1931eb4ffb34a8c.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>knife</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>291.0</xmin>
+            <ymin>102.0</ymin>
+            <xmax>341.0</xmax>
+            <ymax>143.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

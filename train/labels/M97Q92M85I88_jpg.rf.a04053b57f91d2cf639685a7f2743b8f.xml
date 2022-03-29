@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>M97Q92M85I88_jpg.rf.a04053b57f91d2cf639685a7f2743b8f.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>knife</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>171.0</xmin>
+            <ymin>166.0</ymin>
+            <xmax>286.0</xmax>
+            <ymax>374.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

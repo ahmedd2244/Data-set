@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>Operation_Cook_8_September_1967_Quang_Ngai_Province_Republic_of_Vietnam_R_C__Lafoon_png.rf.a3c18f7d8823d8dcf5a3e6b86f8b8702.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>64.0</xmin>
+            <ymin>116.0</ymin>
+            <xmax>444.0</xmax>
+            <ymax>304.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

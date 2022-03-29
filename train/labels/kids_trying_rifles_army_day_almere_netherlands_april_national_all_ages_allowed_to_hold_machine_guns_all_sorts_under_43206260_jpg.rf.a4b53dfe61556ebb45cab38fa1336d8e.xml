@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>kids_trying_rifles_army_day_almere_netherlands_april_national_all_ages_allowed_to_hold_machine_guns_all_sorts_under_43206260_jpg.rf.a4b53dfe61556ebb45cab38fa1336d8e.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>219.0</xmin>
+            <ymin>272.0</ymin>
+            <xmax>334.0</xmax>
+            <ymax>330.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>220.0</xmin>
+            <ymin>242.0</ymin>
+            <xmax>386.0</xmax>
+            <ymax>275.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>92.0</xmin>
+            <ymin>164.0</ymin>
+            <xmax>422.0</xmax>
+            <ymax>268.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>7.0</xmin>
+            <ymin>64.0</ymin>
+            <xmax>450.0</xmax>
+            <ymax>215.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>Military_Series_M416_Desert_Eagle_MK14_Scar_Vector_Rifle_Gun_Model_Building_Blocks_Army_Weapon_Shoot_jpg.rf.04bf8ef7d5e1c16abf63df071d9c7f6a.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>3.0</xmin>
+            <ymin>116.0</ymin>
+            <xmax>441.0</xmax>
+            <ymax>328.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

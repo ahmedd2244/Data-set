@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>Y2NFLDXGCKNW_jpg.rf.57958f657bb892224af3a4367554c6b1.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>35.0</xmin>
+            <ymin>178.0</ymin>
+            <xmax>419.0</xmax>
+            <ymax>328.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>50.0</xmin>
+            <ymin>37.0</ymin>
+            <xmax>387.0</xmax>
+            <ymax>210.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>1.0</xmin>
+            <ymin>342.0</ymin>
+            <xmax>322.0</xmax>
+            <ymax>450.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

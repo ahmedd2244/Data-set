@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>T2GRXNI4GVMP_jpg.rf.b2b2b7fb98198e11a6d32a578e028162.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>10.0</xmin>
+            <ymin>34.0</ymin>
+            <xmax>213.0</xmax>
+            <ymax>339.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>208.0</xmin>
+            <ymin>14.0</ymin>
+            <xmax>451.0</xmax>
+            <ymax>413.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

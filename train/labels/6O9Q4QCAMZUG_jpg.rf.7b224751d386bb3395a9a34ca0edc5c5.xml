@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>6O9Q4QCAMZUG_jpg.rf.7b224751d386bb3395a9a34ca0edc5c5.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>4.0</xmin>
+            <ymin>43.0</ymin>
+            <xmax>443.0</xmax>
+            <ymax>391.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

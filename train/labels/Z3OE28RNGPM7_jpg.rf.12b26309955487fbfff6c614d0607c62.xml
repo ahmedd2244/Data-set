@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>Z3OE28RNGPM7_jpg.rf.12b26309955487fbfff6c614d0607c62.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>199.0</xmin>
+            <ymin>2.0</ymin>
+            <xmax>280.0</xmax>
+            <ymax>212.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

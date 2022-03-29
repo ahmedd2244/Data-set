@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>aug10-Assault-Rifles-Used-By-Indian-Armed-Forces_jpg.rf.a7b79a9cdbfa028785ff455cea723a58.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>385.0</xmin>
+            <ymin>375.0</ymin>
+            <xmax>414.0</xmax>
+            <ymax>402.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

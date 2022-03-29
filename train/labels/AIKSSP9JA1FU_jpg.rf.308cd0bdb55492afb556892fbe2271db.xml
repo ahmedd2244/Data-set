@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>AIKSSP9JA1FU_jpg.rf.308cd0bdb55492afb556892fbe2271db.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>287.0</xmin>
+            <ymin>207.0</ymin>
+            <xmax>450.0</xmax>
+            <ymax>385.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>48.0</xmin>
+            <ymin>253.0</ymin>
+            <xmax>168.0</xmax>
+            <ymax>450.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

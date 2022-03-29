@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>966IWQUBOOSY_jpg.rf.86e7b6f30e8b5e20b42fda6324d021db.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>50.0</xmin>
+            <ymin>125.0</ymin>
+            <xmax>413.0</xmax>
+            <ymax>280.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>93.0</xmin>
+            <ymin>307.0</ymin>
+            <xmax>189.0</xmax>
+            <ymax>386.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

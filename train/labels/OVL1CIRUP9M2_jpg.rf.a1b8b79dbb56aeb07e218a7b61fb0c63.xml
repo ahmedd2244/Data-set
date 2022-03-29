@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>OVL1CIRUP9M2_jpg.rf.a1b8b79dbb56aeb07e218a7b61fb0c63.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>24.0</xmin>
+            <ymin>138.0</ymin>
+            <xmax>428.0</xmax>
+            <ymax>246.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>15.0</xmin>
+            <ymin>258.0</ymin>
+            <xmax>439.0</xmax>
+            <ymax>438.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>23.0</xmin>
+            <ymin>12.0</ymin>
+            <xmax>439.0</xmax>
+            <ymax>130.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

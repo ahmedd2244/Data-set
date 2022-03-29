@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>1NIFRDONBHK0_jpg.rf.f90b589119bb0fd48f29d381b593e28d.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>129.0</xmin>
+            <ymin>198.0</ymin>
+            <xmax>451.0</xmax>
+            <ymax>294.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

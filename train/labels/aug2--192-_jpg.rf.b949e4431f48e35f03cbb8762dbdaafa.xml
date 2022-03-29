@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>aug2--192-_jpg.rf.b949e4431f48e35f03cbb8762dbdaafa.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>227.0</xmin>
+            <ymin>212.0</ymin>
+            <xmax>267.0</xmax>
+            <ymax>230.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

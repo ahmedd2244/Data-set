@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>DefenseKnifeAttack0184_jpg.rf.45f1f8c6855a53d93b2b95ed68938b2d.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>knife</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>114.0</xmin>
+            <ymin>128.0</ymin>
+            <xmax>178.0</xmax>
+            <ymax>190.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

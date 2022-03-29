@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>KnifeDefenseKrav184_jpg.rf.9aef01da705ccf75fa262863ceb211a0.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>knife</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>304.0</xmin>
+            <ymin>30.0</ymin>
+            <xmax>343.0</xmax>
+            <ymax>75.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

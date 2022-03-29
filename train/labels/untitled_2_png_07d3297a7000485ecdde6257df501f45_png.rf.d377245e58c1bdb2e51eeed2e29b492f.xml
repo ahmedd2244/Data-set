@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>untitled_2_png_07d3297a7000485ecdde6257df501f45_png.rf.d377245e58c1bdb2e51eeed2e29b492f.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>29.0</xmin>
+            <ymin>12.0</ymin>
+            <xmax>438.0</xmax>
+            <ymax>181.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>19.0</xmin>
+            <ymin>215.0</ymin>
+            <xmax>435.0</xmax>
+            <ymax>429.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

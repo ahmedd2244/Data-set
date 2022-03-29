@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>armas__64__jpg.rf.c801b7d2c1996ea2cbc9a8c1f4a73232.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>9.0</xmin>
+            <ymin>95.0</ymin>
+            <xmax>178.0</xmax>
+            <ymax>277.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

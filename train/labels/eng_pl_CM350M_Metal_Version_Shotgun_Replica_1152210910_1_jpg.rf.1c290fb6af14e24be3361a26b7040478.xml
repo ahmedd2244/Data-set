@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>eng_pl_CM350M_Metal_Version_Shotgun_Replica_1152210910_1_jpg.rf.1c290fb6af14e24be3361a26b7040478.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>14.0</xmin>
+            <ymin>141.0</ymin>
+            <xmax>434.0</xmax>
+            <ymax>298.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>SA80_A2__L85A2__5_56mm_Rifle_MOD_45162150_jpg.rf.c5ffc03056de8478d1bbc38e2ff834ef.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>5.0</xmin>
+            <ymin>69.0</ymin>
+            <xmax>443.0</xmax>
+            <ymax>400.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

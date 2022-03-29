@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>DSC_0051_JPG.rf.5a1f5bd8b471eadc5784dc7283a880bb.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>knife</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>190.0</xmin>
+            <ymin>312.0</ymin>
+            <xmax>236.0</xmax>
+            <ymax>362.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>indian_ofb_trichy_akm_rifle_reveal_jpg.rf.537d9a0487d6784f2427b2064050a2f7.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>195.0</xmin>
+            <ymin>165.0</ymin>
+            <xmax>392.0</xmax>
+            <ymax>264.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

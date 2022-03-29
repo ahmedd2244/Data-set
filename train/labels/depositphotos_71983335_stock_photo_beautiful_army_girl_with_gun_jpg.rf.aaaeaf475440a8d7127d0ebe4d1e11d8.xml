@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>depositphotos_71983335_stock_photo_beautiful_army_girl_with_gun_jpg.rf.aaaeaf475440a8d7127d0ebe4d1e11d8.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>79.0</xmin>
+            <ymin>244.0</ymin>
+            <xmax>179.0</xmax>
+            <ymax>438.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

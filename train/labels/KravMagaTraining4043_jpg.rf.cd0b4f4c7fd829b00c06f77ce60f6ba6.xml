@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>KravMagaTraining4043_jpg.rf.cd0b4f4c7fd829b00c06f77ce60f6ba6.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>knife</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>185.0</xmin>
+            <ymin>108.0</ymin>
+            <xmax>223.0</xmax>
+            <ymax>163.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>modern_weapon_german_army_assault_260nw_105305228_jpg.rf.8b9238cb330a85bc1946754ef0ef1368.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>22.0</xmin>
+            <ymin>126.0</ymin>
+            <xmax>438.0</xmax>
+            <ymax>394.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

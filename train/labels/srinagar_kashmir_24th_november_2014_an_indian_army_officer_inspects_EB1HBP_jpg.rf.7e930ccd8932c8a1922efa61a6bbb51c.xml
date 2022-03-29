@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>srinagar_kashmir_24th_november_2014_an_indian_army_officer_inspects_EB1HBP_jpg.rf.7e930ccd8932c8a1922efa61a6bbb51c.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>126.0</xmin>
+            <ymin>187.0</ymin>
+            <xmax>237.0</xmax>
+            <ymax>277.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

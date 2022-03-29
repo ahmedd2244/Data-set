@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>DSC_0044_JPG.rf.b1aac6f9c930d49f3d33c4b3c55ac079.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>knife</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>209.0</xmin>
+            <ymin>148.0</ymin>
+            <xmax>223.0</xmax>
+            <ymax>252.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>knife</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>182.0</xmin>
+            <ymin>158.0</ymin>
+            <xmax>193.0</xmax>
+            <ymax>249.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

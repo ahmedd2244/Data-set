@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>beautiful_woman_with_rifle_plastic_military_army_girl_holding_gun_CWJC6W_jpg.rf.8078c6f8464c0d383eb92fe3708d2d95.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>156.0</xmin>
+            <ymin>289.0</ymin>
+            <xmax>425.0</xmax>
+            <ymax>395.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

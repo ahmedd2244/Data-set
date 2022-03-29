@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>knife_1166_jpg.rf.4188e5b4cc76bb0c55d8e7f913ca1a7b.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>knife</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>97.0</xmin>
+            <ymin>177.0</ymin>
+            <xmax>150.0</xmax>
+            <ymax>287.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

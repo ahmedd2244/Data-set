@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>Army_SOF_with_HK416_jpg.rf.88a1e7d275cb844b5c85d98d858bd650.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>16.0</xmin>
+            <ymin>159.0</ymin>
+            <xmax>369.0</xmax>
+            <ymax>338.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

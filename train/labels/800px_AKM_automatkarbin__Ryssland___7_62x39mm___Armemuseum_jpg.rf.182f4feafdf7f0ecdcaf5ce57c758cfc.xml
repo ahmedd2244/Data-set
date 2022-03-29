@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>800px_AKM_automatkarbin__Ryssland___7_62x39mm___Armemuseum_jpg.rf.182f4feafdf7f0ecdcaf5ce57c758cfc.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>8.0</xmin>
+            <ymin>8.0</ymin>
+            <xmax>443.0</xmax>
+            <ymax>193.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>9.0</xmin>
+            <ymin>225.0</ymin>
+            <xmax>441.0</xmax>
+            <ymax>423.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

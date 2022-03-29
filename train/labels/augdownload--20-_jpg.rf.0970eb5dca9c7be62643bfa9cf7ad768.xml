@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>augdownload--20-_jpg.rf.0970eb5dca9c7be62643bfa9cf7ad768.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>361.0</xmin>
+            <ymin>195.0</ymin>
+            <xmax>371.0</xmax>
+            <ymax>221.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

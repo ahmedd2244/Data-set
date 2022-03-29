@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>DZGH02O395N3_jpg.rf.45f0591df9ce68ba19ee1b3f4d26b51b.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>144.0</xmin>
+            <ymin>205.0</ymin>
+            <xmax>374.0</xmax>
+            <ymax>259.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>138.0</xmin>
+            <ymin>274.0</ymin>
+            <xmax>364.0</xmax>
+            <ymax>324.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>135.0</xmin>
+            <ymin>8.0</ymin>
+            <xmax>399.0</xmax>
+            <ymax>65.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>148.0</xmin>
+            <ymin>346.0</ymin>
+            <xmax>368.0</xmax>
+            <ymax>412.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>109.0</xmin>
+            <ymin>81.0</ymin>
+            <xmax>372.0</xmax>
+            <ymax>140.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>132.0</xmin>
+            <ymin>148.0</ymin>
+            <xmax>369.0</xmax>
+            <ymax>195.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

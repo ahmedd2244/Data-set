@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>7_62mm_snai_perskaya_vintovka_mc_116m_sorevnovaniya_po_snai_pingu_posvyashchennye_prazdnovaniyu_dnya_oruzhei_nika_01_1535557732_jpg.rf.dce37eb45ecd4b5136705e342952db0d.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>17.0</xmin>
+            <ymin>53.0</ymin>
+            <xmax>441.0</xmax>
+            <ymax>379.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

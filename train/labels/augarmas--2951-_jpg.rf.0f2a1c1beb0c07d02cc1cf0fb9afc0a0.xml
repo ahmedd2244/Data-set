@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>augarmas--2951-_jpg.rf.0f2a1c1beb0c07d02cc1cf0fb9afc0a0.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>108.0</xmin>
+            <ymin>309.0</ymin>
+            <xmax>141.0</xmax>
+            <ymax>333.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

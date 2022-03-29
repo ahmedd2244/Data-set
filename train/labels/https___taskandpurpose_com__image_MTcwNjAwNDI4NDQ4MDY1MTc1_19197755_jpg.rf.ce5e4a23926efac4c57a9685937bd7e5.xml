@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>https___taskandpurpose_com__image_MTcwNjAwNDI4NDQ4MDY1MTc1_19197755_jpg.rf.ce5e4a23926efac4c57a9685937bd7e5.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>1.0</xmin>
+            <ymin>38.0</ymin>
+            <xmax>189.0</xmax>
+            <ymax>221.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>800px_Indian_Army_soldiers_move_into_position_while_demonstrating_a_platoon_level_ambush_to_U_S__Army_paratroopers_during_Yudh_Abhyas_2013_jpg.rf.58443c92675e9c20c7935faad3897b03.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>22.0</xmin>
+            <ymin>304.0</ymin>
+            <xmax>84.0</xmax>
+            <ymax>339.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>137.0</xmin>
+            <ymin>225.0</ymin>
+            <xmax>223.0</xmax>
+            <ymax>361.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>342.0</xmin>
+            <ymin>249.0</ymin>
+            <xmax>450.0</xmax>
+            <ymax>338.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

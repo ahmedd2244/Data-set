@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>soldiers_winter_snow_guns_military_weapons_hk_m416_aimpoint_pro_2181x1363_aircraft_military_hd_art_wallpaper_preview_jpg.rf.f11ca894eeb1c75980124fa3df93f712.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>72.0</xmin>
+            <ymin>153.0</ymin>
+            <xmax>311.0</xmax>
+            <ymax>304.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

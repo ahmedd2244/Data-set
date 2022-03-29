@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>depositphotos_13438057_stock_photo_soldier_in_formation_with_armo_jpg.rf.7e8c844950752dabf23133f4b1ab5b4d.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>184.0</xmin>
+            <ymin>47.0</ymin>
+            <xmax>352.0</xmax>
+            <ymax>442.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

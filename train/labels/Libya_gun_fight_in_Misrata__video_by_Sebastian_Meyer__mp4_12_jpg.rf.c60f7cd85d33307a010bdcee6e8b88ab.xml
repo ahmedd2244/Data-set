@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>Libya_gun_fight_in_Misrata__video_by_Sebastian_Meyer__mp4_12_jpg.rf.c60f7cd85d33307a010bdcee6e8b88ab.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>244.0</xmin>
+            <ymin>234.0</ymin>
+            <xmax>275.0</xmax>
+            <ymax>256.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

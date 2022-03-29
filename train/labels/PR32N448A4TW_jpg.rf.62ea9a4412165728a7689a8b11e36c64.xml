@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>PR32N448A4TW_jpg.rf.62ea9a4412165728a7689a8b11e36c64.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>291.0</xmin>
+            <ymin>108.0</ymin>
+            <xmax>380.0</xmax>
+            <ymax>401.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>162.0</xmin>
+            <ymin>104.0</ymin>
+            <xmax>238.0</xmax>
+            <ymax>377.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

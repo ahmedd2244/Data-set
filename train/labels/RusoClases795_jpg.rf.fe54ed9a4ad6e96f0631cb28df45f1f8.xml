@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>RusoClases795_jpg.rf.fe54ed9a4ad6e96f0631cb28df45f1f8.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>knife</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>80.0</xmin>
+            <ymin>165.0</ymin>
+            <xmax>136.0</xmax>
+            <ymax>215.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

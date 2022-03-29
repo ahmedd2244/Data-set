@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>modern_german_army_assault_rifle_with_folded_stock_isolated_on_a_white_background_2FMHK80_jpg.rf.3fdfbf99bb4a034a7513e9e7b12ad296.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>24.0</xmin>
+            <ymin>42.0</ymin>
+            <xmax>445.0</xmax>
+            <ymax>369.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

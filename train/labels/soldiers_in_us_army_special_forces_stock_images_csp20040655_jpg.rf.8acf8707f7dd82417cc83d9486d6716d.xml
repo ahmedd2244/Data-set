@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>soldiers_in_us_army_special_forces_stock_images_csp20040655_jpg.rf.8acf8707f7dd82417cc83d9486d6716d.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>67.0</xmin>
+            <ymin>26.0</ymin>
+            <xmax>441.0</xmax>
+            <ymax>436.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

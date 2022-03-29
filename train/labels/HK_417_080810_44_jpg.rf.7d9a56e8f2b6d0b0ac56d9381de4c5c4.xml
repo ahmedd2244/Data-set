@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>HK_417_080810_44_jpg.rf.7d9a56e8f2b6d0b0ac56d9381de4c5c4.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>75.0</xmin>
+            <ymin>117.0</ymin>
+            <xmax>415.0</xmax>
+            <ymax>424.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>machine_guns_russian_army_second_world_war_retro_machine_guns_russian_army_165966316_jpg.rf.d47c35b7db585296cf01e3669d25904e.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>106.0</xmin>
+            <ymin>219.0</ymin>
+            <xmax>343.0</xmax>
+            <ymax>378.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>95.0</xmin>
+            <ymin>18.0</ymin>
+            <xmax>418.0</xmax>
+            <ymax>244.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>78.0</xmin>
+            <ymin>354.0</ymin>
+            <xmax>301.0</xmax>
+            <ymax>437.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

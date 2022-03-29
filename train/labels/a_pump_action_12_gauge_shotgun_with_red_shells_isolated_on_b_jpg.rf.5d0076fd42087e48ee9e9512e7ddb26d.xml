@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>a_pump_action_12_gauge_shotgun_with_red_shells_isolated_on_b_jpg.rf.5d0076fd42087e48ee9e9512e7ddb26d.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>27.0</xmin>
+            <ymin>82.0</ymin>
+            <xmax>433.0</xmax>
+            <ymax>383.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

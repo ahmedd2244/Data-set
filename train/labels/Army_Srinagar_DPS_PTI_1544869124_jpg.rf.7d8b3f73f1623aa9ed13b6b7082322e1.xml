@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>Army_Srinagar_DPS_PTI_1544869124_jpg.rf.7d8b3f73f1623aa9ed13b6b7082322e1.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>283.0</xmin>
+            <ymin>123.0</ymin>
+            <xmax>437.0</xmax>
+            <ymax>314.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>76.0</xmin>
+            <ymin>37.0</ymin>
+            <xmax>193.0</xmax>
+            <ymax>167.0</ymax>
+        </bndbox>
+    </object>
+</annotation>

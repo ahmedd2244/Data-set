@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>header_mobile_weapons_header_png.rf.00f8aeecf37aac7ca606150b3b086222.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fire weapon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>158.0</xmin>
+            <ymin>101.0</ymin>
+            <xmax>280.0</xmax>
+            <ymax>335.0</ymax>
+        </bndbox>
+    </object>
+</annotation>
